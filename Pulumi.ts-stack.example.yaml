@@ -1,0 +1,5 @@
+config:
+  yandex:cloudId: cloud_id
+  yandex:folderId: folder_id
+  yandex:token:
+    secure: token

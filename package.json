@@ -1,0 +1,14 @@
+{
+  "name": "k8s-pulumi",
+  "description": "Kubernetes and Pulumi integrating and testing project",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "@pulumi/kubernetes": "4.23.0",
+    "@pulumi/pulumi": "*",
+    "@pulumi/yandex": "^0.13.0"
+  }
+}

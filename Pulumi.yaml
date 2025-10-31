@@ -1,0 +1,10 @@
+name: k8s-pulumi
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+description: Kubernetes and Pulumi integrating and testing project
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: https://www.pulumi.com/ai/api/project/1fbdb690-3e2e-4a5a-8f32-4fb602aaf59a.zip
